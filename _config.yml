@@ -94,8 +94,7 @@ content:
         title: University of Texas at Rio Grande Valley
         caption: 2018-2021
         sub_title: BS Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        #quote: >
         description: | # this will include new lines to allow paragraphs
           During my time at UTRGV I learnt most of my key skills such as graphic design, designing applications, designing websites, working as a team.
 
@@ -112,7 +111,7 @@ content:
       - Ruby on Rails
 
    # Look at this cool image  
-      ![Trees](SF1.png "Trees")
+      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
