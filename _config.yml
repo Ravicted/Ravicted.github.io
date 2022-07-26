@@ -46,7 +46,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image:itsme.jpg
+about_profile_image: itsme.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Julio and I'm a recent graduate from the University of Texas at Rio Grande Valley. 
 
