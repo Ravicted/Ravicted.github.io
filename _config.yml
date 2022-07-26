@@ -110,7 +110,7 @@ content:
       - CSS
       - Jira
       - jQuery
-      - ![alt text] ("/images/SF1.png "trees")
+      - Images ![alt text](/images/SF1.png "trees")
 
     #Look at this cool image  
 
