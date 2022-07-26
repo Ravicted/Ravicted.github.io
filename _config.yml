@@ -113,7 +113,7 @@ content:
       - Ruby on Rails
 
     #Look at this cool image  
-      - Images ![alt text](/images/SF1.png "Screenshot1")
+       ![alt text](/images/SF1.png "Screenshot1")
 
 
 # Footer
