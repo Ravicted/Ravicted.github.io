@@ -71,8 +71,6 @@ content:
           A mobile application that uses Flutter framework to allow users to search for recipes. Uses Tensorflow to recognize ingredients based off a users images and search for recipes based on those ingredients. Also uses Spoonacular API to grab recipe information and also filter search results to be more approximate.
         description: | # this will include new lines to allow paragraphs
           Me and my collegue David started this project during Covid-19 lockdown.  We wanted a mobile app with a clean UI to search up recipes using foods we input in the app, returning recipe results using Spoonacular API.
-        content: |
-         - ![alt text](/images/SF1.png "trees")
 
           
 
