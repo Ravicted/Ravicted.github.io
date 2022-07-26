@@ -112,7 +112,7 @@ content:
       - Ruby on Rails
 
    # Look at this cool image  
-   ![Trees](SF1.png "Trees")
+      ![Trees](SF1.png "Trees")
 
 # Footer
 footer_show_references: true
