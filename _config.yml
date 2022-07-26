@@ -59,8 +59,8 @@ content:
       - layout: top-middle
         title: See-Food
         link: https://www.youtube.com/watch?v=-qWgy3pHkb4
-        include: 
-          - "SF1.png"
+      - ![alt text](/images/SF1.png "trees")
+
         # link_text: Project Website
         #additional_links:
          # - title:  sproogen/modern-resume-theme
