@@ -12,7 +12,7 @@ email: jmend2994@gmail.com
 website: https://ravicted.github.io
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: false
 
 # Social links
 #twitter_username: julioisabaddie
@@ -46,7 +46,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image:https://scontent-hou1-1.xx.fbcdn.net/v/t39.30808-6/275665246_1073755576521426_4949522093551021119_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=174925&_nc_ohc=ZZht780fiGMAX8tm5cg&tn=5DrmxbD9Vv1TfI0b&_nc_ht=scontent-hou1-1.xx&oh=00_AT_MQdZ_hVpsk1061xlCAZnRPV_oDeSEeMMrz5GPvZN9Gg&oe=62E3BE22
+about_profile_image:itsme.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Julio and I'm a recent graduate from the University of Texas at Rio Grande Valley. 
 
