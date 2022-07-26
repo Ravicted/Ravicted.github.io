@@ -112,8 +112,8 @@ content:
       - jQuery
       - Ruby on Rails
 
-   # Look at this cool image  
-      #![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+    #Look at this cool image  
+      ![Trees](SF1.png "Trees")
 
 # Footer
 footer_show_references: true
