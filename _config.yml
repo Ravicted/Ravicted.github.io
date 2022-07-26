@@ -113,7 +113,8 @@ content:
       - Ruby on Rails
 
     #Look at this cool image  
-      #![Trees](SF1.png "Trees")
+      - Images ![alt text](/images/SF1.png "Screenshot1")
+
 
 # Footer
 footer_show_references: true
