@@ -6,16 +6,16 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Julio Mendiola
+title: Software Engineer
+email: jmend2994@gmail.com
+website: https://ravicted.github.io
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
-twitter_username: facespics
+twitter_username: julioisabaddie
 github_username:  sproogen
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
