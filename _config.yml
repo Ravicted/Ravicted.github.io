@@ -56,11 +56,10 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      -![alt text](/images/SF1.png "trees")
       - layout: top-middle
         title: See-Food
         link: https://www.youtube.com/watch?v=-qWgy3pHkb4
-      - ![alt text](/images/SF1.png "trees")
-
         # link_text: Project Website
         #additional_links:
          # - title:  sproogen/modern-resume-theme
@@ -110,7 +109,8 @@ content:
       - CSS
       - Jira
       - jQuery
-      - ![alt text](/images/SF1.png "trees")
+    #  - ![alt text](/images/SF1.png "trees")
+      - Ruby on Rails
 
     #Look at this cool image  
 
